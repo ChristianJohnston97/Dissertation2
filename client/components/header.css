@@ -1,0 +1,15 @@
+#wrapper { 
+    display: flex;
+    
+}
+
+#rating { 
+    position: relative;
+    left: 10px;
+    
+}
+
+#balance { 
+    position: absolute;
+    right: 20px;   
+}

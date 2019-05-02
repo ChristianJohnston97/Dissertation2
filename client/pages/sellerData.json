@@ -1,0 +1,123 @@
+[
+        {
+            "id": "1",
+            "name": "Sarah Ward",
+            "companyName": "JP Morgan Chase & Co",
+            "pricePerHour": "500",
+            "yearsExperience": "5",
+            "specialisation": "Corporate Finance",
+            "summary": "JPMorgan Chase & Co. is an American multinational investment bank and financial services company founded in 1978 and headquartered in New York City. JPMorgan Chase is the largest bank in the United States, and the sixth largest bank in the world by total assets, with the amount of $2.534 trillion. Services include investment banking, markets & investor services, treasury services, asset managament and private banking.",
+            "photo": "../static/jp_morgan.png",
+            "numAdsViewed": 4,
+            "numAdsPurchased": 2,
+            "website": "https://www.jpmorgan.com"
+        },
+        {
+            "id": "2",
+            "name": "Sam Seacombe",
+            "companyName": "Bank Of Scotland",
+            "pricePerHour": "600",
+            "yearsExperience": "10",
+            "specialisation": "Corporate Finance",
+            "summary": "The Bank of Scotland plc is a commercial and clearing bank based in Edinburgh, Scotland. With a history dating to the 17th century, it is the fifth-oldest surviving bank in the United Kingdom (the Bank of England having been established one year earlier), and is the only commercial institution created by the Parliament of Scotland to remain in existence. It was one of the first banks in Europe to print its own banknotes, and it continues to print its own sterling banknotes under legal arrangements that allow Scottish banks to issue currency.In June 2006, the HBOS Group Reorganisation Act 2006 was passed by the Parliament of the United Kingdom, allowing the bank's structure to be simplified. As a result, The Governor and Company of the Bank of Scotland became Bank of Scotland plc on 17 September 2007.",
+            "photo": "../static/bank_of_scotland.png",
+            "numAdsViewed": 3,
+            "numAdsPurchased": 1,
+            "website": "https://www.bankofscotland.co.uk"
+
+        },
+        {
+            "id": "3",
+            "name": "Andrew Leslie",
+            "companyName": "Lloyds",
+            "pricePerHour": "50",
+            "yearsExperience": "16",
+            "specialisation": "Corporate Finance",
+            "summary": "Lloyds Bank plc is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the Big Four clearing banks. The bank was founded in Birmingham in 1765. It expanded during the nineteenth and twentieth centuries and took over a number of smaller banking companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc between 1999 and 2013.",
+            "photo": "../static/lloyds.png",
+            "numAdsViewed": 5,
+            "numAdsPurchased": 4,
+            "website": "https://www.lloydsbank.com"
+
+        },
+        {
+            "id": "4",
+            "name": "Maddy Sands",
+            "companyName": "HSBC Holdings",
+            "pricePerHour": "100",
+            "yearsExperience": "20",
+            "specialisation": "Corporate Finance",
+            "summary": "HSBC Holdings plc is a British multinational banking and financial services holding company. It is the 7th largest bank in the world, and the largest in Europe, with total assets of US$2.374 trillion. HSBC is the fourth-largest bank in the world by assets (with $2,670.00  billion), the second largest in terms of revenues (with $146.50 billion) and the largest in terms of market value (with $180.81 billion). It was also the most profitable bank in the world with $19.13 billion in net income in 2007.",
+            "photo": "../static/hsbc.png",
+            "numAdsViewed": 20,
+            "numAdsPurchased": 12,
+            "website": "https://www.hsbc.com/"
+
+        },
+        {
+            "id": "5",
+            "name": "Joe Cass",
+            "companyName": "Bank of America",
+            "pricePerHour": "1000",
+            "yearsExperience": "15",
+            "specialisation": "Corporate Finance",
+            "summary": "The Bank of America Corporation (abbreviated as BofA) is an American multinational investment bank and financial services company based in Charlotte, North Carolina with central hubs in New York City, London, Hong Kong, Minneapolis, and Toronto. Bank of America was formed through NationsBank's acquisition of BankAmerica in 1998. It is the second largest banking institution in the United States, after JP Morgan Chase. As a part of the Big Four, it services approximately 10.73% of all American bank deposits, in direct competition with Citigroup, Wells Fargo, and JPMorgan Chase. Its primary financial services revolve around commercial banking, wealth management, and investment banking.",
+            "photo": "../static/boa.png",
+            "numAdsViewed": 3,
+            "numAdsPurchased": 3,
+            "website": "https://www.bankofamerica.com/"
+
+        },
+        {
+            "id": "6",
+            "name": "Max Parry",
+            "companyName": "Wells Fargo",
+            "pricePerHour": "574",
+            "yearsExperience": "11",
+            "specialisation": "Corporate Finance",
+            "summary": "Wells Fargo & Company is an American multinational financial services company headquartered in San Francisco, California, with central offices throughout the United States. It is the world's second-largest bank by market capitalization and the fourth largest bank in the US by total assets. Wells Fargo is ranked #26 on the 2018 Fortune 500 rankings of the largest US corporations by total revenue. In July 2015, Wells Fargo became the world's largest bank by market capitalization, edging past ICBC, before slipping behind JPMorgan Chase in September 2016, in the wake of a scandal involving the creation of over 2 million fake bank accounts by Wells Fargo employees. Wells Fargo surpassed Citigroup to become the third-largest US bank by assets at the end of 2015 but fell behind Bank of America to third in bank deposits in 2017.",
+            "photo": "../static/wellsfargo.png",
+            "numAdsViewed": 5,
+            "numAdsPurchased": 4,
+            "website": "https://www.wellsfargo.com/"
+        },
+        {
+            "id": "7",
+            "name": "Tom Meldrum",
+            "companyName": "Citi Group",
+            "pricePerHour": "232",
+            "yearsExperience": "28",
+            "specialisation": "Corporate Finance",
+            "summary": "Citigroup Inc. is an American multinational investment bank and financial services corporation headquartered in New York City. The company was formed by the merger of banking giant Citicorp and financial conglomerate Travelers Group in 1998; Travelers was subsequently spun off from the company in 2002. Citigroup is ranked 32nd on the Fortune 500 as of 2018. Citigroup has over 200 million customer accounts and does business in more than 160 countries. It has 214,000 employees, although it had 357,000 employees before the financial crisis of 2007-2008, when it was rescued via a massive stimulus package by the U.S. government.",
+            "photo": "../static/citi.png",
+            "numAdsViewed": 10,
+            "numAdsPurchased": 2,
+            "website": "https://www.citigroup.com/citi/"
+        },
+        {
+            "id": "8",
+            "name": "Archie Vaughan",
+            "companyName": "Barclays",
+            "pricePerHour": "400",
+            "yearsExperience": "4",
+            "specialisation": "Corporate Finance",
+            "summary": "Barclays plc is a British multinational investment bank and financial services company, headquartered in London. Apart from investment banking, Barclays is organised into four core businesses: personal banking, corporate banking, wealth management, and investment management.Barclays traces its origins to a goldsmith banking business established in the City of London in 1690.[4] James Barclay became a partner in the business in 1736. In 1896, several banks in London and the English provinces, including Backhouse's Bank and Gurney's Bank, united as a joint-stock bank under the name Barclays and Co. Over the following decades, Barclays expanded to become a nationwide bank. In 1967, Barclays deployed the world's first cash dispenser. Barclays has made numerous corporate acquisitions, including of London, Provincial and South Western Bank in 1918, British Linen Bank in 1919, Mercantile Credit in 1975, the Woolwich in 2000 and the North American operations of Lehman Brothers in 2008.",
+            "photo": "../static/barclays.png",
+            "numAdsViewed": 20,
+            "numAdsPurchased": 15,
+            "website": "https://www.barclays.co.uk"
+        },
+        {
+            "id": "9",
+            "name": "Alex Bos",
+            "companyName": "Santander",
+            "pricePerHour": "100",
+            "yearsExperience": "12",
+            "specialisation": "Corporate Finance",
+            "summary": "Santander UK plc is a British bank, wholly owned by the Spanish Santander Group. Santander UK plc manages its affairs autonomously, with its own local management team, responsible solely for its performance. Santander UK is one of the leading personal financial services companies in the United Kingdom, and one of the largest providers of mortgages and savings in the United Kingdom. The bank has circa 20,000 employees, 14 million active customers, with over 800 branches and 64 corporate business centres.The bank, with its head office in the London Borough of Camden, was established on 11 January 2010, when Abbey National plc was combined with the savings business and branches of Bradford & Bingley plc, and renamed Santander UK plc. Alliance & Leicester plc merged into the renamed business in May 2010",
+            "photo": "../static/santander.png",
+            "numAdsViewed": 17,
+            "numAdsPurchased": 7,
+            "website": "www.santander.co.uk"
+        }
+]

@@ -1,0 +1,10 @@
+.spacing{
+    margin-top:30px;
+  }
+
+#modalBody{
+    word-wrap: break-word;
+}
+#title{
+    color: blue;
+}

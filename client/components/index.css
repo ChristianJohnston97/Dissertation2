@@ -1,0 +1,34 @@
+
+.intro
+{
+    justify-content: center;
+    display: flex;
+}
+button
+{
+    margin-left: 10px;
+}
+
+.captcha
+{
+    justify-content: center;
+    display: flex;
+
+}
+
+.buttons
+{
+    justify-content: center;
+    display: flex;
+}
+
+#profile { 
+    justify-content: center;
+    display: flex;
+
+}
+
+#picture { 
+    position:relative;
+    right:100px;
+}
